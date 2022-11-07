@@ -1,0 +1,194 @@
+{
+  "categories": [
+    "Shrubs","Container Plants","Herbaceous Perennials","Cacti & Succulents"
+  ],
+  "flowerlist": [
+    {
+      "category": "Shrubs",
+      "price": 15.99,
+      "instructions": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
+      "photo": "assets/california_snow.jpg",
+      "name": "Azalea",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 1
+    },
+    {
+      "category": "Shrubs",
+      "price": 33.99,
+      "instructions": "Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange\\/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.",
+      "photo": "assets/princess_flower.jpg",
+      "name": "Tibouchina Semidecandra",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 2
+    },
+    {
+      "category": "Shrubs",
+      "price": 12.99,
+      "instructions": "Blooms in summer, 20-35 inches high. Fertilize regularly for best results. Full sun, drought tolerant.",
+      "photo": "assets/haight_ashbury.png",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Hibiscus",
+      "productId": 3
+    },
+    {
+      "category": "Shrubs",
+      "price": 5.99,
+      "instructions": "Quick-growing, herbaceous, shrub reaching up to 30 inches in height, forming a rounded, dense bush.",
+      "photo": "assets/mona_lavender.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Plectranthus",
+      "productId": 4
+    },
+    {
+      "category": "Container Plants",
+      "price": 45.99,
+      "instructions": "They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.",
+      "photo": "assets/bonsai.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Bonsai Tree",
+      "productId": 9
+    },
+    {
+      "category": "Container Plants",
+      "price": 12.99,
+      "instructions": "Blooms continuously from early spring to first frost. Full sun or part shade, moist well-drained soil.",
+      "photo": "assets/calibrachoa.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Calibrachoa Noa",
+      "productId": 10
+    },
+    {
+      "category": "Container Plants",
+      "price": 14.99,
+      "instructions": "The flowers last about ten weeks. They have a waxy texture and reach a height of more than 20 inches.",
+      "photo": "assets/cymbidium.jpg",
+      "name": "Cymbidium Aestivum",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 11
+    },
+    {
+      "category": "Container Plants",
+      "price": 4.99,
+      "instructions": "Creamy-white centers, medium green outer foliage with flattened outer foliage.",
+      "photo": "assets/flowering_kale.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Brassica Oleracea",
+      "productId": 12
+    },
+    {
+      "category": "Herbaceous Perennials",
+      "price": 5.99,
+      "instructions": "They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil. Avoid overwatering.",
+      "photo": "assets/dianthus.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Dianthus",
+      "productId": 19
+    },
+    {
+      "category": "Herbaceous Perennials",
+      "price": 9.99,
+      "instructions": "Chrysanthemums respond to plenty of food and moisture, and prefer full sun.",
+      "photo": "assets/bronze_mums.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Chrysanthemum",
+      "productId": 20
+    },
+    {
+      "category": "Herbaceous Perennials",
+      "price": 7.99,
+      "instructions": "Summer flowering, 12–18” high, likes full sun and well drained soil. Drought tolerant.",
+      "photo": "assets/Armeria_alliacea.jpg",
+      "name": "Armeria Alliacea",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 21
+    },
+    {
+      "category": "Herbaceous Perennials",
+      "price": 6.99,
+      "instructions": "Grows to 15 inches. The species is easy to grow from seeds or cuttings. This species prefers full sun.",
+      "photo": "assets/salvia.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Salvia Splendens",
+      "productId": 22
+    },
+    {
+      "category": "Cacti & Succulents",
+      "price": 18.99,
+      "instructions": "Add water until there is half inch of dry soil on the surface. Do not water again until the soil is completely dry.",
+      "photo": "assets/red_cactus.jpg",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "name": "Red Cactus",
+      "productId": 27
+    },
+    {
+      "category": "Cacti & Succulents",
+      "price": 30.99,
+      "instructions": "Drought tolerant, well drained soil. Prefers full sun.",
+      "photo": "assets/aloe_vera.jpg",
+      "name": "Aloe Vera",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 28
+    },
+    {
+      "category": "Cacti & Succulents",
+      "price": 20.99,
+      "instructions": "Easy to care for, requiring watering only when they’re dry. They like bright but indirect light.",
+      "photo": "assets/exotic_dancer.jpg",
+      "name": "Schlumbergera",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 29
+    },
+    {
+      "category": "Cacti & Succulents",
+      "price": 18.5,
+      "instructions": "Locate it in a place where it is exposed to at least a few hours of direct sunlight.",
+      "photo": "assets/string_of_pearls.jpg",
+      "name": "Senecio Rowleyanus",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 30
+    },
+    {
+      "category": "Cacti & Succulents",
+      "price": 12.99,
+      "instructions": "These plants blend in among the stones as a means of protection. Grazing animals would otherwise eat them.",
+      "photo": "assets/lithops.jpg",
+      "name": "Lithops",
+      "temperature":"18C to 25C",
+      "pot":"self watering pot",
+      "height": "40cm - 50cm",
+      "productId": 31
+    }
+  ]
+}
